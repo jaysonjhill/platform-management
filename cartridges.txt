@@ -1,1 +1,3 @@
-git@github.com:rhubel123/adop-cartridge-exelon.git
+ssh://git@github.com:rhubel123/adop-cartridge-exelon.git
+ssh://git@github.com:rhubel123/exelon_selenium.git
+ssh://git@github.com:rhubel123/Exelon_Configuration.git
