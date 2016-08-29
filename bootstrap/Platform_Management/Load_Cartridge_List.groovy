@@ -27,7 +27,7 @@ cd ${WORKSPACE}/tmp
 while read repo_url; do
     if [ ! -z "${repo_url}" ]; then
         repo_name=$(echo "${repo_url}" | rev | cut -d'/' -f1 | rev | sed 's#.git$##g')
-        target_repo_name="cartridges/${repo_name}"
+        target_repo_name="${repo_name}"
 
         # Check if the repository already exists or not
         repo_exists=0
