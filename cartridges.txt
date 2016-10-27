@@ -1,1 +1,1 @@
-git@github.com:rhubel123/adop-cartridge-exelon-angel.git
+ssh://git@newsource.accenture.com/aop/adop-cartridge-oracle.git
